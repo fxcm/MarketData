@@ -4,7 +4,7 @@
 
 Enjoy a free one-month sample of our historical Sentiment Data also known as SSI.
 
-https://sampledata.fxcorporate.com/sentiment/{instrument}.csv.gz
+	https://sampledata.fxcorporate.com/sentiment/{instrument}.csv.gz
 
     Instrument	: 
              AUDJPY, AUDUSD, CADJPY, CHFJPY, EURAUD, EURCAD, EURCHF, EURGBP,
@@ -31,7 +31,7 @@ Note:
 
 Enjoy a free one-month sample of our historical Volume Data.
 
-https://sampledata.fxcorporate.com/volume/{instrument}.csv.gz
+	https://sampledata.fxcorporate.com/volume/{instrument}.csv.gz
 
     Instrument	: 
              AUDJPY, AUDUSD, CADJPY, CHFJPY, EURAUD, EURCAD, EURCHF, EURGBP,
@@ -59,7 +59,7 @@ Note:
 
 Enjoy a free one-month sample of our historical Orders Data.
 
-https://sampledata.fxcorporate.com/orders/sample.csv.gz
+	https://sampledata.fxcorporate.com/orders/sample.csv.gz
 
 
     Each data set would include:
