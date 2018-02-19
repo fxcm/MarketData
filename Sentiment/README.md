@@ -4,7 +4,7 @@ Enjoy a free one-month sample of our historical Sentiment Data also known as SSI
 
 	https://sampledata.fxcorporate.com/sentiment/{instrument}.csv.gz
 
-    Instrument	: 
+    Instrument: 
              AUDJPY, AUDUSD, CADJPY, CHFJPY, EURAUD, EURCAD, EURCHF, EURGBP,
              EURJPY, EURNOK, EURSEK, EURUSD, GBPCHF, GBPJPY, GBPUSD, NZDJPY,
              NZDUSD, USDCAD, USDCHF, USDCNH, USDJPY, USDNOK, USDSEK, FRA40,
@@ -12,10 +12,10 @@ Enjoy a free one-month sample of our historical Sentiment Data also known as SSI
 
 
     Each data set would include:
-            •	DateTime (EST)
-            •	Symbol
-            •	Name
-            •	Value
+            •DateTime (EST)
+            •Symbol
+            •Name
+            •Value
 
 
 Note:

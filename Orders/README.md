@@ -6,10 +6,10 @@ Enjoy a free one-month sample of our historical Orders Data.
 
 
     Each data set would include:
-            •	DateTime (UTC)
-            •	Symbol
-            •	Quantity (Volume)
-            •	Rate (Price)
+            •DateTime (UTC)
+            •Symbol
+            •Quantity (Volume)
+            •Rate (Price)
 
 
 Note:
