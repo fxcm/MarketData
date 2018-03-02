@@ -15,10 +15,14 @@ Enjoy a free one-month sample of our historical Orders Data.
 
 
 ## Note:
-•Losses can exceed deposits	
-•Past performance is not indicative of future results	
+•Losses can exceed deposits
+
+•Past performance is not indicative of future results
+
 •Scope of the data may vary per product	
-•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula)	
+
+•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula)
+
 •For more information, you may contact us: premiumdata@fxcm.com	
 
  
@@ -43,11 +47,15 @@ Enjoy a free one-month sample of our historical Sentiment Data also known as SSI
 
 
 ## Note:
-	•Losses can exceed deposits
-	•Past performance is not indicative of future results
-	•Scope of the data may vary per product
-	•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
-	•For more information, you may contact us: premiumdata@fxcm.com 
+•Losses can exceed deposits
+
+•Past performance is not indicative of future results
+
+•Scope of the data may vary per product
+
+•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
+
+•For more information, you may contact us: premiumdata@fxcm.com 
 
 ## FXCMVolume
 
@@ -70,9 +78,13 @@ Enjoy a free one-month sample of our historical Volume Data.
 
 
 ## Note:
-	•Losses can exceed deposits
-	•Past performance is not indicative of future results
-	•Scope of the data may vary per product
-	•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
-	•For more information, you may contact us: premiumdata@fxcm.com 
+•Losses can exceed deposits
+
+•Past performance is not indicative of future results
+
+•Scope of the data may vary per product
+
+•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
+
+•For more information, you may contact us: premiumdata@fxcm.com 
  
