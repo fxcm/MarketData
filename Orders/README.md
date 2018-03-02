@@ -21,5 +21,5 @@ Enjoy a free one-month sample of our historical Orders Data.
 
 •This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
 
-•For more information, you may [contact us:](premiumdata@fxcm.com)
+•For more information, you may contact us: premiumdata@fxcm.com
  
