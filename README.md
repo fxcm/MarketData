@@ -21,7 +21,7 @@ Past performance is not indicative of future results
 
 Scope of the data may vary per product
 
-This is for personal use and abides by our [EULA] (https://www.fxcm.com/uk/forms/eula)
+This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula)
 
 For more information, you may contact us: premiumdata@fxcm.com
 
