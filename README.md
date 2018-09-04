@@ -23,7 +23,7 @@ https://tickdata.fxcorporate.com/EURUSD/2015/1.csv.gz
 If you are familiar with Python, we have two scripts that you may use for [Python 2.7](https://github.com/FXCMAPI/FXCMTickData/blob/master/TickData27.py) and [Python 3.4](https://github.com/FXCMAPI/FXCMTickData/blob/master/TickData34.py)
 
 
-## Note:
+### Note:
 
 o	Losses can exceed deposits
 
@@ -71,7 +71,7 @@ https://candledata.fxcorporate.com/D1/EURUSD/2012.csv.gz
 If you are familiar with Python, we have three scripts that you may use for [Python 2.7](https://github.com/FXCMAPI/FXCMTimeSeriesData/blob/master/CandleData27.py), [Python 3.4](https://github.com/FXCMAPI/FXCMTimeSeriesData/blob/master/CandleData34.py), or a [pandas data frame](https://github.com/FXCMAPI/FXCMTimeSeriesData/blob/master/CandleData(pandas).py)
 
 
-## Note:
+### Note:
 
 o	Losses can exceed deposits
 
@@ -89,7 +89,7 @@ o	For more information, you may contact us: premiumdata@fxcm.com
 
 
 
-## Orders
+## Order Flow
 
 Enjoy a free one-month sample of our historical Orders Data.
 
@@ -103,16 +103,16 @@ Enjoy a free one-month sample of our historical Orders Data.
             •Rate (Price)
 
 
-## Note:
-•Losses can exceed deposits
+### Note:
+o	Losses can exceed deposits
 
-•Past performance is not indicative of future results
+o	Past performance is not indicative of future results
 
-•Scope of the data may vary per product	
+o	Scope of the data may vary per product	
 
-•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula)
+o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula)
 
-•For more information, you may contact us: premiumdata@fxcm.com
+o	For more information, you may contact us: premiumdata@fxcm.com
 
  
 ## Sentiment
@@ -135,16 +135,16 @@ Enjoy a free one-month sample of our historical Sentiment Data also known as SSI
             •Value
 
 
-## Note:
-•Losses can exceed deposits
+### Note:
+o	Losses can exceed deposits
 
-•Past performance is not indicative of future results
+o	Past performance is not indicative of future results
 
-•Scope of the data may vary per product
+o	Scope of the data may vary per product
 
-•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
+o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
 
-•For more information, you may contact us: premiumdata@fxcm.com
+o	For more information, you may contact us: premiumdata@fxcm.com
  
 
 ## Volume
@@ -167,15 +167,15 @@ Enjoy a free one-month sample of our historical Volume Data.
             •Value
 
 
-## Note:
-•Losses can exceed deposits
+### Note:
+o	Losses can exceed deposits
 
-•Past performance is not indicative of future results
+o	Past performance is not indicative of future results
 
-•Scope of the data may vary per product
+o	Scope of the data may vary per product
 
-•This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
+o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
 
-•For more information, you may contact us: premiumdata@fxcm.com
+o	For more information, you may contact us: premiumdata@fxcm.com
  
  
