@@ -1,6 +1,4 @@
-# Market Data
-
-## FXCMTickData
+## TickData
 Enjoy free access to our historical Tick Data.
 
 Our repository contains Tick Data from 4 January 2015. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated every Monday.
@@ -39,7 +37,7 @@ o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/form
 
 o	For more information, you may contact us: premiumdata@fxcm.com 
 
-## FXCMTimeSeriesData
+## CandleData
 
 Enjoy free access to our historical Time Series or Candle Data.
 
@@ -91,7 +89,7 @@ o	For more information, you may contact us: premiumdata@fxcm.com
 
 
 
-## FXCMOrders
+## Orders
 
 Enjoy a free one-month sample of our historical Orders Data.
 
@@ -117,7 +115,7 @@ Enjoy a free one-month sample of our historical Orders Data.
 •For more information, you may contact us: premiumdata@fxcm.com
 
  
-## FXCMSentiment
+## Sentiment
 
 Enjoy a free one-month sample of our historical Sentiment Data also known as SSI.
 
@@ -149,7 +147,7 @@ Enjoy a free one-month sample of our historical Sentiment Data also known as SSI
 •For more information, you may contact us: premiumdata@fxcm.com
  
 
-## FXCMVolume
+## Volume
 
 Enjoy a free one-month sample of our historical Volume Data.
 
