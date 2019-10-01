@@ -35,5 +35,5 @@ o	Data points are indicative and based on the lowest spreads available exclusive
 
 o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
 
-o	For more information, you may contact us: premiumdata@fxcm.com 
+o	For more information, you may contact us: api@fxcm.com 
 
