@@ -183,4 +183,4 @@ o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/form
 
 o	For more information, you may contact us: api@fxcm.com
  
- 
+ [![Run on Repl.it](https://repl.it/badge/github/Mikesh89/MarketData)](https://repl.it/github/Mikesh89/MarketData)
