@@ -57,7 +57,7 @@ https://candledata.fxcorporate.com/{periodicity}/{instrument}/{year}/{int of wee
                     GBPNZD, GBPUSD, NZDCAD, NZDCHF, NZDJPY, NZDUSD,
                     USDCAD, USDCHF, USDJPY
 
-      Year:         2012, 2013, 2014, 2015, 2016, 2017, 2018
+      Year:         2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
 
       Week:         1 to 52/53 (only applicable to m1 and H1)
 
