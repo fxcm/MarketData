@@ -15,7 +15,7 @@ https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.g
                   USDCAD, USDCHF, USDJPY, AUDUSD, CADJPY, GBPCAD,
                   USDTRY, EURNZD
 
-    Year:         2017, 2018, 2019, 2020, 2021
+    Year:         2018, 2019, 2020, 2021
 
     Week:         1 to 52/53
 
