@@ -13,9 +13,9 @@ https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.g
                   EURCHF, EURGBP, EURJPY, EURUSD, GBPCHF, GBPJPY,
                   GBPNZD, GBPUSD, NZDCAD, NZDCHF, NZDJPY, NZDUSD,
                   USDCAD, USDCHF, USDJPY, AUDUSD, CADJPY, GBPCAD,
-                  USDTRY, EURNZD
+                  USDTRY, EURNZD, GBPAUD
 
-    Year:         2018, 2019, 2020, 2021
+    Year:         2018, 2019, 2020, 2021, 2022
 
     Week:         1 to 52/53
 
