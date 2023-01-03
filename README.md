@@ -19,7 +19,7 @@ https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.g
 
     Week:         1 to 52/53
 
-To give an example, the path for extracting EURUSD data for the 1st week of 2018 would be
+To give an example, the path for extracting EURUSD data for the 1st week of 2022 would be
 
 https://tickdata.fxcorporate.com/EURUSD/2022/1.csv.gz
 
