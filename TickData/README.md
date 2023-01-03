@@ -1,7 +1,7 @@
 # FXCMTickData
 Enjoy free access to our historical Tick Data.
 
-Our repository contains Tick Data from January 2018. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated every Monday.
+Our repository contains Tick Data from January 2019. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated every Monday.
 
 https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
 
@@ -12,7 +12,7 @@ https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.g
                   USDCAD, USDCHF, USDJPY, AUDUSD, CADJPY, GBPCAD,
                   USDTRY, EURNZD, GBPAUD
 
-    Year:         2018, 2019, 2020, 2021, 2022
+    Year:         2019, 2020, 2021, 2022, 2023
 
     Week:         1 to 52/53
 
