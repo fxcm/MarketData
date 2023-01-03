@@ -4,7 +4,7 @@ FXCM provide several sample data for free. Historical tick or candle data. Order
 ## TickData
 Enjoy free access to our historical Tick Data.
 
-Our repository contains Tick Data from January 2018. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated monthly.
+Our repository contains Tick Data from January 2019. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated monthly.
 
 https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
 
@@ -15,13 +15,13 @@ https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.g
                   USDCAD, USDCHF, USDJPY, AUDUSD, CADJPY, GBPCAD,
                   USDTRY, EURNZD, GBPAUD
 
-    Year:         2018, 2019, 2020, 2021, 2022
+    Year:         2019, 2020, 2021, 2022, 2023
 
     Week:         1 to 52/53
 
 To give an example, the path for extracting EURUSD data for the 1st week of 2018 would be
 
-https://tickdata.fxcorporate.com/EURUSD/2018/1.csv.gz
+https://tickdata.fxcorporate.com/EURUSD/2022/1.csv.gz
 
 If you are familiar with Python, we have two scripts that you may use for [Python 2.7](https://github.com/fxcm/MarketData/blob/master/TickData/TickData27.py) and [Python 3.4](https://github.com/fxcm/MarketData/blob/master/TickData/TickData34.py)
 
