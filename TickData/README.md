@@ -1,7 +1,7 @@
 # FXCMTickData
 Enjoy free access to our historical Tick Data.
 
-Our repository contains Tick Data from January 2019. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated every Monday.
+Our repository contains Tick Data from January 2019. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated monthly.
 
 https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
 
