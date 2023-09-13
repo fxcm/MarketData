@@ -2,9 +2,7 @@
 FXCM provide several sample data for free. Historical tick or candle data. Order flow, sentiment and volume.
 
 ## TickData
-Enjoy free access to our historical Tick Data.
-
-Our repository contains Tick Data from January 2019. The data is compiled by trading instrument for that trading week. The files are stored in our public directory and is updated monthly.
+Historical Tick Data sample data.
 
 https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
 
@@ -15,7 +13,7 @@ https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.g
                   USDCAD, USDCHF, USDJPY, AUDUSD, CADJPY, GBPCAD,
                   USDTRY, EURNZD, GBPAUD
 
-    Year:         2019, 2020, 2021, 2022, 2023
+    Year:         2019, 2020, 2021, 2022
 
     Week:         1 to 52/53
 
@@ -40,9 +38,7 @@ o	For more information, you may contact us: api@fxcm.com
 
 ## CandleData
 
-Enjoy free access to our historical Time Series or Candle Data.
-
-Our repository contains Candle Data from 1 January 2012. The data is compiled by trading instrument for that trading week for m1 & H1, and trading year for D1. The files are stored in our public directory and is updated every Monday for minute (m1) and hour (H1) data only.
+Historical Time Series or Candle Data sample.
 
 https://candledata.fxcorporate.com/{periodicity}/{instrument}/{year}/{int of week of year}.csv.gz
 
@@ -53,21 +49,21 @@ https://candledata.fxcorporate.com/{periodicity}/{instrument}/{year}/{int of wee
                     GBPNZD, GBPUSD, NZDCAD, NZDCHF, NZDJPY, NZDUSD,
                     USDCAD, USDCHF, USDJPY
 
-      Year:         2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+      Year:         2017, 2018, 2019, 2020
 
       Week:         1 to 52/53 (only applicable to m1 and H1)
 
-To give an example, the path for extracting EURUSD minute-data for the 1st week of 2012 would be
+To give an example, the path for extracting EURUSD minute-data for the 1st week of 2020 would be
 
-https://candledata.fxcorporate.com/m1/EURUSD/2012/1.csv.gz
+https://candledata.fxcorporate.com/m1/EURUSD/2020/1.csv.gz
 
-To give an example, the path for extracting EURUSD hourly-data for the 1st week of 2012 would be
+To give an example, the path for extracting EURUSD hourly-data for the 1st week of 2020 would be
 
-https://candledata.fxcorporate.com/H1/EURUSD/2012/1.csv.gz
+https://candledata.fxcorporate.com/H1/EURUSD/2020/1.csv.gz
 
-To give an example, the path for extracting EURUSD daily-data for 2012 would be
+To give an example, the path for extracting EURUSD daily-data for 2020 would be
 
-https://candledata.fxcorporate.com/D1/EURUSD/2012.csv.gz
+https://candledata.fxcorporate.com/D1/EURUSD/2020.csv.gz
 
 If you are familiar with Python, we have three scripts that you may use for [Python 2.7](https://github.com/fxcm/MarketData/blob/master/CandleData/CandleData27.py), [Python 3.4](https://github.com/fxcm/MarketData/blob/master/CandleData/CandleData34.py), or a [pandas data frame](https://github.com/fxcm/MarketData/blob/master/CandleData/CandleData(pandas).py)
 
