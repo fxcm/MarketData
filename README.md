@@ -23,6 +23,7 @@ https://tickdata.fxcorporate.com/EURUSD/2022/1.csv.gz
 
 If you are familiar with Python, we have two scripts that you may use for [Python 2.7](https://github.com/fxcm/MarketData/blob/master/TickData/TickData27.py) and [Python 3.4](https://github.com/fxcm/MarketData/blob/master/TickData/TickData34.py)
 
+Please use our FXCM [apps](https://www.fxcm.com/markets/trading-tools/trading-apps/) if you want the full data.
 
 ### Note:
 
@@ -67,6 +68,7 @@ https://candledata.fxcorporate.com/D1/EURUSD/2020.csv.gz
 
 If you are familiar with Python, we have three scripts that you may use for [Python 2.7](https://github.com/fxcm/MarketData/blob/master/CandleData/CandleData27.py), [Python 3.4](https://github.com/fxcm/MarketData/blob/master/CandleData/CandleData34.py), or a [pandas data frame](https://github.com/fxcm/MarketData/blob/master/CandleData/CandleData(pandas).py)
 
+Please use our FXCM [apps](https://www.fxcm.com/markets/trading-tools/trading-apps/) if you want the full data.
 
 ### Note:
 
