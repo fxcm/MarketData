@@ -1,29 +1,8 @@
 # Introduction
-FXCM provide several sample data for free. Historical tick or candle data. Order flow, sentiment and volume.
+FXCM provide several sample data for free. Historical candle data. Order flow, sentiment and volume.
 
 ## TickData
-Historical Tick Data sample data.
-
-https://tickdata.fxcorporate.com/{instrument}/{year}/{int of week of year}.csv.gz
-
-    Instrument: 
-                  AUDCAD, AUDCHF, AUDJPY, AUDNZD, CADCHF, EURAUD,
-                  EURCHF, EURGBP, EURJPY, EURUSD, GBPCHF, GBPJPY,
-                  GBPNZD, GBPUSD, NZDCAD, NZDCHF, NZDJPY, NZDUSD,
-                  USDCAD, USDCHF, USDJPY, AUDUSD, CADJPY, GBPCAD,
-                  USDTRY, EURNZD, GBPAUD
-
-    Year:         2019, 2020, 2021, 2022
-
-    Week:         1 to 52/53
-
-To give an example, the path for extracting EURUSD data for the 1st week of 2022 would be
-
-https://tickdata.fxcorporate.com/EURUSD/2022/1.csv.gz
-
-If you are familiar with Python, we have two scripts that you may use for [Python 2.7](https://github.com/fxcm/MarketData/blob/master/TickData/TickData27.py) and [Python 3.4](https://github.com/fxcm/MarketData/blob/master/TickData/TickData34.py)
-
-Please use our FXCM [apps](https://www.fxcm.com/markets/trading-tools/trading-apps/) if you want the full data.
+Please take a look at our Tick Data Downloader [FXCM apps](https://www.fxcm.com/markets/trading-tools/trading-apps/).
 
 ### Note:
 
