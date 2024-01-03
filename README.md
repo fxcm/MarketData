@@ -4,18 +4,6 @@ FXCM provide several sample data for free. Historical candle data. Order flow, s
 ## TickData
 Please take a look at our Tick Data Downloader [FXCM apps](https://www.fxcm.com/markets/trading-tools/trading-apps/).
 
-### Note:
-
-o	Past performance is not indicative of future results
-
-o	Timestamps are in UTC
-
-o	Data points are indicative and based on the lowest spreads available exclusively on Active Trader accounts
-
-o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
-
-o	For more information, you may contact us: api@fxcm.com 
-
 ## CandleData
 
 Historical Time Series or Candle Data sample.
