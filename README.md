@@ -2,7 +2,7 @@
 FXCM provide several sample data for free. Historical candle data. Order flow, sentiment and volume.
 
 ## TickData
-Please take a look at our Tick Data Downloader [FXCM apps](https://www.fxcm.com/markets/trading-tools/trading-apps/).
+Please send email request to premiumdata@fxcm.com.
 
 ## CandleData
 
